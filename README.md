@@ -51,7 +51,7 @@ flowchart LR
 
 Python · Streamlit · Google Gemini API (`google-genai`) · Pandas · pypdf · python-docx · python-dotenv
 
-Model yang digunakan saat pengujian: **[ISI NAMA MODEL]** (free tier)
+Model yang digunakan saat pengujian: **Gemini-3.1-flash-lite** (free tier)
 
 ## 6. Cara menjalankan
 
