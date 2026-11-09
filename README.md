@@ -2,6 +2,8 @@
 
 Aplikasi web yang mengubah catatan atau dokumen laporan operasional yang tidak terstruktur menjadi **ringkasan, daftar masalah, dan action items berprioritas** secara otomatis.
 
+**Demo:** https://ai-report-assistant.streamlit.app/
+
 > Catatan: ini project portofolio dengan data dummy. Kasus laporan keamanan dipakai sebagai simulasi, bukan klaim bahwa perusahaan tertentu memakai sistem ini.
 
 ![Tampilan aplikasi](screenshots/hasil-analisis.png)
@@ -134,4 +136,4 @@ Gunakan hanya data dummy. Pada free tier, Google dapat memakai input untuk menin
 
 ---
 
-Dibuat oleh Rosa Linda Salsabila · [ISI LINK LINKEDIN / GITHUB]
+Dibuat oleh Rosa Linda Salsabila · https://www.linkedin.com/in/rosalindasb/
